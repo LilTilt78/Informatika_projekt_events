@@ -6,4 +6,4 @@
 * 17.5. - projektový den - funkční komponenty button pro vytvoření události a button pro smazání události
 * 1.6. - funkční vícestavový prvek pro potvrzované mazání události a input box pro definici názvu události
 * 19.6. - projektový den - fungující button pro odeslání povinné účasti na události uživateli a button pro povinnou účast na události pro skupinu
-* 22.6. uzavření a dokončení projektu
+* 22.6. - uzavření a dokončení projektu
